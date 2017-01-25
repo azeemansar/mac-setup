@@ -1,11 +1,16 @@
 # Apps
 
-Here is a quick list of apps that are generally good to use and can come in handy in day to day tasks. The apps are seperated into 4 broad categories Developer Tools, Productivity Tools, Office Apps and Others.
+Here is a quick list of apps that are generally good to use and can come in handy in day to day tasks. The apps are seperated into 5 broad categories Developer Tools, Productivity Tools, Office Apps, Others, and Archive.
+
+A good way to install many of the tools below is through cask. This command will install many of the apps below:
+
+	$ brew cask install google-chrome alfred spectacle bartender dropbox avast little-snitch flux cheatsheet dashlane sublime-text slack sketch sketch-toolbox iterm2 postman vagrant-manager vagrant virtualbox google-drive 
 
 ### Developer Tools
 - [Google Chrome](https://www.google.com/intl/en/chrome/browser/): Installs Chrome which is one of the best browsers currently. All chrome browsers and extensions are saved by Google so can be synced easily.
-- [Valentina Studio](http://www.valentina-db.com/en/valentina-studio-overview):  Valentina Studio is a gui to create, administer and query MySQL, Postgres and SQLite databases.
 - [Atom](https://atom.io/): Open source editor by Github and is very similar to Sublime Text in most aspects.
+- [Sublime Text](https://www.sublimetext.com/3): Atom can get very slow; I tend to prefer Sublime Text.
+- [Sketch](https://www.sketchapp.com/): Professional digital design for Mac.
 
 ### Diff and Merge Tools
 
@@ -37,36 +42,36 @@ Both can't compare in terms of features and user interface with their commercial
 *Thanks to Tower team*: [source](https://www.git-tower.com/blog/diff-tools-mac/)
 
 ### Productivity
-- [1Password](https://agilebits.com/onepassword): Cross platform password management tool.
-- [Airmail](http://airmailapp.com/): Lightweight fast email client.
-- [Alfred](http://www.alfredapp.com/): Replacement for spotlight. I'll mostly be upgrading to power pack.
-- [AppCleaner](http://www.freemacsoft.net/appcleaner/): Uninstall Apps.
-- [Caffeine](http://lightheadsw.com/caffeine/): Stops the machine from going into sleep mode.
-- [DoubleTwist](https://www.doubletwist.com/desktop/): Import your playlists, ratings, music and videos. Create new playlists to your heart's content. Rate your songs and videos. Play your music and videos and view all of your photos.
+- [Dashlane](http://dashlane.com/): Cross platform password management tool.
+- [Alfred](http://www.alfredapp.com/): Replacement for spotlight.
+- [CleanMyMac 3](http://macpaw.com/cleanmymac): Uninstall apps, free up space, and manage your files.
+- [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704): Stops the machine from going into sleep mode.
 - [Dropbox](https://www.dropbox.com/): File syncing to the cloud. It syncs files across all devices (laptop, mobile, tablet), and serves as a backup as well!
+- [Jing](www.techsmith.com/jing.html): Tool for adding basic visual elements to any screenshot, then sending in conversation.
 - [F.lux](https://justgetflux.com/): f.lux makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
 - [Google Drive](https://drive.google.com/): File syncing to the cloud too! Google Docs is a popular tool to collaborate with others.
-- [Notebooks](http://www.notebooksapp.com/mac/): Notebooks for Mac allows you to share files with the mobile versions of Notebooks on the iPad and iPhone. And you can write notes in markdown.
+- [Simplenote](https://simplenote.com/): Simplenote is an easy-to-use notetaking app available for iOS, Android, Mac, Windows, Linux, and the web.
 - [PDF Toolkit+](https://itunes.apple.com/us/app/pdf-toolkit-+/id545164971?mt=12): App to cut/split/merge pdfs easily. Really easy to use and works well.
 - [Pocket](https://getpocket.com): Save For Later. Put articles, videos or pretty much anything into Pocket. Save directly from your browser or from apps like Twitter, Flipboard, Pulse and Zite.
-- [SleepPillow](https://itunes.apple.com/us/app/sleep-pillow/id597419160?mt=12): Sleep Pillow plays sounds that create an ambient atmosphere for sleep enhancement at home, or for drowning out noise at work.
 - [Spectacle](http://spectacleapp.com/): Don't waste time resizing and moving your windows. Spectacle makes this very easy and is open source.
 - [Timing](http://timingapp.com/): Keep track of the time you spend with your Mac.
-- [Tomighty](http://www.tomighty.org/): A free desktop timer for the Pomodoro Technique.
+- [Be Focused Pro](http://www.tomighty.org/): A free desktop timer for the Pomodoro Technique.
 - [Total Finder](http://totalfinder.binaryage.com/): Adds tabs and improves the Finder to a great deal.
-- [Transmission](http://www.transmissionbt.com/): A fast, easy and free BitTorrent client.
-- [Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html): Compress/Uncompress app. Supported file formats include Zip, Tar-GZip, Tar-BZip2, RAR, 7-zip, LhA, StuffIt and many other old and obscure formats.
 
 ### Office Apps
 - [Keynote](http://www.apple.com/mac/keynote/): Create presentations on mac, this is supposed to be an alternate to PowerPoint.
-- [Microsoft Office](http://www.microsoft.com/mac/buy): Microsoft Office for Mac. Includes Microsoft Word, Excel, Powerpoint and Outlook.
-- [Numbers](http://www.apple.com/mac/numbers/): Create spreadsheets on mac, this is supposed to be an alternate to Excel.
-- [Pages](http://www.apple.com/mac/pages/): Create text files on mac, this is supposed to be an alternate to Word.
 
 ### Others
-- [Asepsis](http://asepsis.binaryage.com/): Get rid of the annoying DS_Store files. It stops them from being created anywhere on the system.
+- [Avast Mac Security](https://www.avast.com/en-us/free-mac-security): Avast Mac Security is a lightweight antivirus for Apple Macintosh computers, with on-demand antivirus scanning & background on-access protection.
+- [Avast SecureLine VPN](https://www.avast.com/en-us/secureline-vpn): A simple VPN that's easy to use and helps you protect your privacy.
+- [Bartender](https://www.macbartender.com/): Organize your menu bar apps, by hiding them, rearranging them, or moving them to the Bartender Bar.
 - [CheatSheet](http://www.grandtotal.biz/CheatSheet/): Tap the command key for long to see all the keyboard shortcuts of the current app.
 - [Google Voice and Video](http://www.google.com/+/learnmore/hangouts/): A voice and video chat plugin. Not sure if this is required after the release of hangouts.
+- [Little Snitch](https://www.obdev.at/products/littlesnitch):
+
+### Archive
+- [Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html): Compress/Uncompress app. Supported file formats include Zip, Tar-GZip, Tar-BZip2, RAR, 7-zip, LhA, StuffIt and many other old and obscure formats.
+- [Asepsis](http://asepsis.binaryage.com/): Get rid of the annoying DS_Store files. It stops them from being created anywhere on the system.
 - [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html): Take backups of your disk and use the backup disk to restore the machine incase of failure.
 - [VLC](http://www.videolan.org/vlc/index.html): VLC Media Player. Enough said.
 - [Voila](http://www.globaldelight.com/voila/): Record your screen with audio, mouse highlight and other features.
