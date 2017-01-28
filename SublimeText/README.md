@@ -13,3 +13,10 @@ Let's create a shortcut so we can launch Sublime Text from the command-line:
     $ ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 
 Now you can open a file with `$ subl myfile.py` or start a new project in the current directory with `$ subl .`. Pretty cool. We'll configure Sublime more in the next few sections.
+
+## Key Repeat
+Make sure key-repeat is enabled for j/k in vintage mode (instead of activating Apple long press). Just type this command in terminal/iterm:
+
+	$ defaults write com.sublimetext.3 ApplePressAndHoldEnabled -bool false
+
+(from this link: https://gist.github.com/kconragan/2510186)
