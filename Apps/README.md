@@ -65,6 +65,7 @@ Both can't compare in terms of features and user interface with their commercial
 - [Avast Mac Security](https://www.avast.com/en-us/free-mac-security): Avast Mac Security is a lightweight antivirus for Apple Macintosh computers, with on-demand antivirus scanning & background on-access protection.
 - [Avast SecureLine VPN](https://www.avast.com/en-us/secureline-vpn): A simple VPN that's easy to use and helps you protect your privacy.
 - [Bartender](https://www.macbartender.com/): Organize your menu bar apps, by hiding them, rearranging them, or moving them to the Bartender Bar.
+- [Klib](TODO): Organize all Kindle highlights in one place on Mac.
 - [CheatSheet](http://www.grandtotal.biz/CheatSheet/): Tap the command key for long to see all the keyboard shortcuts of the current app.
 - [Google Voice and Video](http://www.google.com/+/learnmore/hangouts/): A voice and video chat plugin. Not sure if this is required after the release of hangouts.
 - [Little Snitch](https://www.obdev.at/products/littlesnitch):
