@@ -81,3 +81,8 @@ If this is a new computer, there are a couple tweaks you would like to make to t
     $ csrutil enable
     
  - **reboot** normally
+
+## AA Changes
+#### Display Settings
+- Energy Saver -> Battery -> turn OFF "Slightly dim the display when on battery power"
+- Displays -> Display -> turn OFF "Automatically adjust brightness"
